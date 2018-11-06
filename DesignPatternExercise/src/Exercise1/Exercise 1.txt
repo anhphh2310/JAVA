@@ -1,0 +1,3 @@
+Factory Method Pattern How does this pattern promote loosely coupled code?
+
+The factory provides a centralized place to put decision code for selecting between sub classed objects.  This means that to add another sub classed object the only work is in creating the new object and adding a few lines of decision code to the factory.  This is especially  great in highly modularized systems, in which, modules may be added and removed from the system at any point.

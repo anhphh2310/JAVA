@@ -1,0 +1,3 @@
+What pattern(s) is(are) often used together with the Abstract Factory pattern?
+
+bstract Factory classes are often implemented with Factory Methods, but they can also be implemented using Prototype.

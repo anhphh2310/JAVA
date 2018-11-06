@@ -1,0 +1,9 @@
+Animal:Dong vat
+Apple:Qua tao
+Fruit:Trai cay
+Red :Do
+Yellow:Vang
+Green:Xanh
+Blue:Xanh duong
+Dark:Tối
+Land:Đất

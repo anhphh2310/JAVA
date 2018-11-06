@@ -1,0 +1,3 @@
+What design pattern can be used to solve the problem?
+
+Desing pattern can be used to solve the problem is abstract factory 
